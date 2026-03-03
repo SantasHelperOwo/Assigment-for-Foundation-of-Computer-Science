@@ -1,8 +1,7 @@
-import urllib.parse
+import http.client
 
-data = "Hello Noob! This is URL demo."
-encoded = urllib.parse.quote(data)
-print("URL Encoded:", encoded)
-
-decoded = urllib.parse.unquote(encoded)
-print("Decoded:", decoded)
+conn = http.client.HTTPSConnection("example.com")
+conn.request("GET", "/")
+response = conn.getresponse()
+print("Status:", response.status)
+print("Protocol: HTTPS")
