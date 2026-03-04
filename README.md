@@ -51,7 +51,7 @@ The coursework explores four major tasks:
 
 - Import schema.sql into MariaDB.
 
-- Run queries from queries_4.4.sql and queries_4.5.sql.
+- Run queries 
 
 - Check screenshots/ for evidence of query execution.
 
