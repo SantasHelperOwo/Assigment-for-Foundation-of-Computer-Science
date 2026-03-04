@@ -60,7 +60,8 @@ The coursework explores four major tasks:
 
 4. Review ER diagram for database relationships.
 
-   Notes
+## Notes
+
 All tasks are aligned with the official assignment brief.
 
 Screenshots provide examiner-friendly validation of SQL execution.
@@ -69,7 +70,7 @@ Harvard-style references are included in the final report.
 
 This repository is publicly accessible for submission and review
 
-   Author
+## Author
 
 Student Name: AtipShrestha
 
