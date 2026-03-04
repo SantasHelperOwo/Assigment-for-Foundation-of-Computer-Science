@@ -35,8 +35,11 @@ The coursework explores four major tasks:
 
 ## Repository Structure
 ├── Task1_Encoding/          # Scripts and diagrams for encoding formats
+
 ├── Task2_SeatingProblem/    # Python scripts for seating arrangement (P vs NP)
+
 ├── Task3_Normalization/     # SQL schema, queries, ER diagram, screenshots
+
 ├── README.md                # Documentation (this file)
 
 ---
@@ -66,8 +69,12 @@ Harvard-style references are included in the final report.
 
 This repository is publicly accessible for submission and review
 
-Author
+   Author
+
 Student Name: AtipShrestha
+
 Student ID: [250660]
+
 Module Code: ST4015CMD
+
 College: Softwarica College of IT & E-Commerce (in collaboration with Coventry University)
